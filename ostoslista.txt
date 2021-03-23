@@ -1,7 +1,8 @@
 liksu
 rinkula
 suojike
-moi
+suojike2
+hei
 moi
 moi 
 hei
